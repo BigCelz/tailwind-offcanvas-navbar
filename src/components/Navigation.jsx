@@ -14,7 +14,7 @@ const Navigation = () => {
   };
 
   return (
-    <nav className="bg-gray-900 text-white fixed w-full z-50 shadow">
+    <nav className="bg-gray-800 text-white fixed w-full z-50 shadow">
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <h1 className="text-2xl font-bold text-orange-500">Figorate</h1>
 
