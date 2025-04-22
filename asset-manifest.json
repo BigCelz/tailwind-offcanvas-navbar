@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tailwind-offcanvas-navbar/static/css/main.bf8fee64.css",
+    "main.js": "/tailwind-offcanvas-navbar/static/js/main.027ea417.js",
+    "static/js/453.b44a93d7.chunk.js": "/tailwind-offcanvas-navbar/static/js/453.b44a93d7.chunk.js",
+    "index.html": "/tailwind-offcanvas-navbar/index.html",
+    "main.bf8fee64.css.map": "/tailwind-offcanvas-navbar/static/css/main.bf8fee64.css.map",
+    "main.027ea417.js.map": "/tailwind-offcanvas-navbar/static/js/main.027ea417.js.map",
+    "453.b44a93d7.chunk.js.map": "/tailwind-offcanvas-navbar/static/js/453.b44a93d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf8fee64.css",
+    "static/js/main.027ea417.js"
+  ]
+}
