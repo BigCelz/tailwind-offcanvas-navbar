@@ -30,7 +30,7 @@ const Navigation = () => {
         </button>
 
         <div className="md:hidden">
-          <button onClick={toggleMenu}>
+          <button onClick={toggleMenu}  className="border border-2 border-dashed border-gray-600 p-3 rounded-lg">
             {menuOpen ? <FiX size={24} /> : <FiMenu size={24} />}
           </button>
         </div>
@@ -53,25 +53,25 @@ const Navigation = () => {
         <ul className="flex flex-col px-5 py-4 space-y-4 ">
           <li
             onClick={handleLinkClick}
-            className="hover:text-orange-500 cursor-pointer py-3 border-b border-gray-700"
+            className="hover:text-orange-500 cursor-pointer py-3 border-b border-gray-700 text-left"
           >
             Home
           </li>
           <li
             onClick={handleLinkClick}
-            className="hover:text-orange-500 cursor-pointer py-3 border-b border-gray-700"
+            className="hover:text-orange-500 cursor-pointer py-3 border-b border-gray-700 text-left"
           >
             Marketplace
           </li>
           <li
             onClick={handleLinkClick}
-            className="hover:text-orange-500 cursor-pointer py-3 border-b border-gray-700"
+            className="hover:text-orange-500 cursor-pointer py-3 border-b border-gray-700 text-left"
           >
             About
           </li>
           <li
             onClick={handleLinkClick}
-            className="hover:text-orange-500 cursor-pointer py-3 border-b border-gray-700"
+            className="hover:text-orange-500 cursor-pointer py-3 border-b border-gray-700 text-left"
           >
             Contact
           </li>
